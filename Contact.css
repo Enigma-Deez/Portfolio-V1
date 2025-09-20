@@ -67,7 +67,8 @@ transition: 3s;
 
 .home{
     height:100vh ;
-    background:url(home.jpg) no-repeat;
+    /* background:url(home.jpg) no-repeat; */
+    background-color: #081b29;
     background-size: cover;
     background-position: center;
     display: flex;
@@ -154,12 +155,6 @@ transition: 3s;
 .contact-left button img {
     height: 15px;
 }
-
-
-/* .contact-right img {
-    width: 500px;
-}
- */
 
 .home-sci {
     position: absolute;
